@@ -1,0 +1,22 @@
+.bg {
+    background-color: rgb(147, 206, 245);
+    font-size: 150%;
+}
+.title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black; 
+    text-decoration-line: underline ;
+}
+.Gmbr {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Film {
+    text-align: left;
+    color: blue;
+}
